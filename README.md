@@ -1,10 +1,14 @@
 # Bl2_Tinder
 This project belongs to CDSD certification Block 2 
+Cyril Braguy
 Tinder project
   
-<img src="https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Tinder-Symbole.png" alt="Tinder" width="30%" />
+<img src="https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Tinder-Symbole.png" alt="Tinder" width="25%" />
   
 
+Project repository : https://github.com/cyrilbraguy/Bl2_Tinder  
+Full Presentation of the project : <a href="./doc/Braguy_CDSD_bl2_tinder.pdf" target = "_blank">doc/Braguy_CDSD_bl2_tinder.pdf</a>   
+  
 # Speed Dating with Tinder
 
 ## Company's description 📇
@@ -54,4 +58,14 @@ total after treatment : 96
       - match_rate...
   - compute stats per wave : **synth1**
 
+
+For next part, pls have a look on presentation link above 
+
 # 2 EDA od speed daters
+
+# 2.2 EDA of waves 
+
+  
+# 3 Analysis 
+
+# 4 Conclusion
